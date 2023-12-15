@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biswas57
-- 👀 I’m interested in Ancient and Modern Empires
+- 👀 I’m interested in Ancient Empires and Modern History
 - 🌱 I’m currently learning Computer Science
 - 🤝 I’m looking to collaborate on working through leetcode together 
 - 📫 How to reach me: via email: biswas.simk@gmail.com or instagram: biswas_simk.
