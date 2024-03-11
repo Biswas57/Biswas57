@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Biswas57
-- 👀 I’m interested in Ancient Empires and Modern History
-- 🌱 I’m currently learning Computer Science
-- 🤝 I’m looking for someone to do leetcode with 🫶 
-- 📫 How to reach me: via email: biswas.simk@gmail.com or instagram: biswas_simk.
+- 👋 Hi, I’m Biswas Simkhada
+- 👀 I take a strong interest in history and religion outside of Uni and work
+- 🌱 I’m currently looking for an internship as a penultimate year Uni student.
+- 🤝 And I’d love someone to do LeetCode questions with 🫶 
+- 📫 How to reach me: via email **biswas.simk@gmail.com** or instagram: **biswas_simk**.
 
 <!---
 Biswas57/Biswas57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
