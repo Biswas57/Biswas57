@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Biswas Simkhada
 - 👀 I take a strong interest in history and religion outside of Uni and work
 - 🌱 I’m currently looking for an internship as a penultimate year Uni student.
-- 🤝 And I’d love someone to do LeetCode questions with 🫶 
+- 🤝 And need someone to do LeetCode questions with 🫶 
 - 📫 How to reach me: via email **biswas.simk@gmail.com** or instagram: **biswas_simk**.
 
 <!---
